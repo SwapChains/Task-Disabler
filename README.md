@@ -7,6 +7,7 @@ Scheduled tasks in Windows can often trigger operations that run in the backgrou
 By selectively disabling the triggers for these tasks, "Task Disabler" allows users to take control over their system's performance, ensuring smoother operation and faster response times. This is particularly important for users who require optimal performance and low latency, such as gamers, developers, and power users.
 
 Example of Use
+
 To use "Task Disabler," the user inputs the path of the scheduled task they want to disable directly into the console. For instance, to disable the scheduled task "Microsoft Compatibility Appraiser" under "Microsoft\Windows\Application Experience", the user would type:
 
 \Microsoft\Windows\Application Experience\Microsoft Compatibility Appraiser
